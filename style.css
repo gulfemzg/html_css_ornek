@@ -1,0 +1,117 @@
+.arkaplan{
+    border-style: solid;
+    border-color: #005497;
+    background-color: #005497;
+    margin-top: -10px;
+    border-width: 45px 5px;
+    color: white;
+    text-align: center;
+}
+.img {
+    position: absolute;
+    margin-left: 400px;
+}
+
+.text{
+    height: 25px; 
+    width: 75px; 
+    z-index: 1;
+    margin-left: 1100px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: #0fa4dd;
+    font-size: 11.5px;
+}
+
+.div1{
+    margin-top: 0px;
+}
+
+.div2{
+    margin-top: -100px;
+}
+.ara{
+    color: #fff;
+    background-color: #0fa4dd;
+    z-index: 2;
+    border-style: solid;
+    border-color: #0fa4dd;
+    border-width: 8.71px;
+    margin-left: -10px;
+}
+.aramabutonu{
+    margin-left: -191.5px;
+    padding-top: 0.8px;
+    z-index: -1;
+}
+
+.english{
+    color: #fff;
+    text-decoration: none;
+}
+
+.english:hover{
+    color: grey;
+}
+
+.yazi{
+    margin-left: 1270px;
+    margin-top: -25px;
+    border-style: solid;
+    border-color: #005497;
+    width: 85px; 
+    background-color: #005497;
+}
+
+.yazi:hover{
+    border-color: #fff;
+    background-color: #fff;
+}
+
+.yanmenu{
+    color: #fff;
+    border-style: solid;
+    border-color: #005497;
+    background-color: #005497;
+    width: 120px;
+    height: 65px;
+}
+
+.yanmenu:hover{
+    color: grey;
+    border-style: solid;
+    border-color: #fff;
+    background-color: #fff;
+    width: 120px;
+    height: 65px;
+}
+
+#ogrenciler{
+    margin-top: -35px;
+}
+
+li{
+    float: left;
+    text-align: center;
+    margin: 20px;
+    width: 100px;
+    height: 65px;
+    border-bottom: 3px solid #005497;
+    margin-top: 35px;
+}
+
+li:hover{
+    color: orange;
+}
+
+#ustmenu{
+    margin-left: 0px;
+}
+
+.tanitim{
+    width: 580px;
+    height: 350px;
+    margin-left: 450px;
+    margin-top: -1000px;
+    margin-bottom: 39px;
+}
